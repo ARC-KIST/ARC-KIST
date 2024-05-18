@@ -1,4 +1,4 @@
-### Hi there 👋
+## KIST Advanced Robot Control Lab.
 
 <!--
 **ARC-KIST/ARC-KIST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> [!note]
+> **Advanced Robot Control Lab.** is a part of the *Center for Intelligent and Interactive Robotics* at *Korea Institute of Science and Technology (KIST)*.  
+> Our main research is in control of advanced robotic systems such as *humanoids, quadrupeds, mobile manipulators, robotic arms,* etc.
+
+> Follow our pages here: &nbsp;
+<a href="https://mrl.seoultech.ac.kr/index.do"><img src="https://github.com/ARC-KIST/ARC-KIST/assets/170070678/c6525085-54b0-4e6c-93a9-8c4cfdd05f2a" align='center' height=35/></a> &nbsp;
+<a href="https://mrl.seoultech.ac.kr/index.do"><img src="https://github.com/ARC-KIST/ARC-KIST/assets/170070678/fffc4a8c-f14b-4b94-910e-1dbff4c4d7ed" align='center' height=50/></a>
+<a href="https://mrl.seoultech.ac.kr/index.do"><img src="https://github.com/ARC-KIST/ARC-KIST/assets/170070678/6a817cb3-7739-4af8-83ba-18ba1c91fb64" align='center' height=55/></a>
